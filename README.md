@@ -1,2 +1,2 @@
 # EmployeeDetailsBasic
-Basic Version of Project to Get Employee Details
+Basic version of project which one hour work  to get employee details
